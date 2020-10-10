@@ -5,7 +5,7 @@ CS339, Computer Networks, 2020 Fall, SJTU
 计算机网络小组项目
 
 
-## 项目阶段
+## 阶段
 
 2020/10/12: 确定选题
 
